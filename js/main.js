@@ -1,4 +1,4 @@
-/*
+
 function botao(){
     document.getElementById("agradecimento").innerHTML = "<strong>Obrigado por clicar</strong>"
     console.log(document.getElementById("agradecimento"));
